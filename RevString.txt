@@ -16,3 +16,4 @@ public class RevString {
 		System.out.println("Reversed word: "+ nstr);
 		}
 	}
+//good
